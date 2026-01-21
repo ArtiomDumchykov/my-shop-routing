@@ -1,0 +1,23 @@
+[
+  { "id": 1,  "name": "Ivan",      "city": "Kyiv"    },
+  { "id": 2,  "name": "Oleh",      "city": "Kyiv"    },
+  { "id": 3,  "name": "Sofia",     "city": "Kharkiv" },
+  { "id": 4,  "name": "Danil",     "city": "Kharkiv" },
+  { "id": 5,  "name": "Maxym",     "city": "Kharkiv" },
+  { "id": 6,  "name": "Andrey",    "city": "Kharkiv" },
+  { "id": 7,  "name": "Anna",      "city": "Lviv"    },
+  { "id": 8,  "name": "Artem",     "city": "Kyiv"    },
+  { "id": 9,  "name": "Ivan",      "city": "Lviv"    },
+  { "id": 10, "name": "Igor",      "city": "Kharkiv" },
+  { "id": 11, "name": "Iryna",     "city": "Kharkiv" },
+  { "id": 12, "name": "David",     "city": "Odessa"  },
+  { "id": 13, "name": "Andrey",    "city": "Kharkiv" },
+  { "id": 14, "name": "Sofia",     "city": "Lviv"    },
+  { "id": 15, "name": "Roman",     "city": "Kharkiv" },
+  { "id": 16, "name": "Mykola",    "city": "Kharkiv" },
+  { "id": 17, "name": "Katya",     "city": "Odessa"  },
+  { "id": 18, "name": "Oksana",    "city": "Kyiv"    },
+  { "id": 19, "name": "Anastasia", "city": "Kharkv"  },
+  { "id": 20, "name": "Mykola",    "city": "Kharkiv" },
+  { "id": 21, "name": "Olena",     "city": "Kyiv"    }
+]
